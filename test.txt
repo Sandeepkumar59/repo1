@@ -1,2 +1,2 @@
-welcome to the party-rock
+welcome to the party-rock -aws-01
 testing fetch command
